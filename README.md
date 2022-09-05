@@ -12,11 +12,11 @@ pip install -r requairments.txt
 ~~~
 create  factory_database.json
 ~~~
-#Runserver
+# Runserver
 ~~~
 python manage.py runserver
 ~~~
-#Rest api for mobile
+# Rest api for mobile
 ~~~
 http://127.0.0.1:8000/mobile/
 Request Body :
