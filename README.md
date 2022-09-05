@@ -6,6 +6,8 @@ git clone https://github.com/vikashkumarsaini9815/Mobile_Factory_Project
 ~~~
 # installation
 ~~~
+cd Mobile_Factory_Project
+cd Mobile_factory
 pip install -r requairments.txt
 ~~~~
 # Setup DB migration
